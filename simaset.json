@@ -1,0 +1,11 @@
+{
+  "barang":[{
+    "nama": "Pensil",
+    "harga": 20000
+  },
+  {
+    "nama": "Buku Tulis",
+    "harga": 25000
+  }
+  ]
+}
